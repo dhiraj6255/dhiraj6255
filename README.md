@@ -1,3 +1,4 @@
+![logo](https://github.com/dhiraj6255/dhiraj6255/blob/main/WhatsApp%20Image%202024-07-04%20at%2020.48.23_74d68159.jpg)
 <h1 align="center">Hi 👋, I'm Dhiraj Badaik</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 

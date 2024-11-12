@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- ⚡ Fun fact **I am not in IT field but i know how to cod.**
+- ⚡ Fun fact **I am not in IT field but i know how to code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Badaik</h1>
 <h3 align="center">Data Analyst | Turning Data into Insights 📊</h3>
 
-<img align="right" width="400px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="data-analysis">
-
----
+<table>
+<tr>
+<td width="60%">
 
 ### 👨‍💻 About Me
 - 🎓 B.Com Student passionate about Data Analytics  
@@ -13,6 +13,15 @@
 - 🔍 I love analyzing data and extracting meaningful insights  
 - 🚀 Currently improving my skills in **Data Visualization & Data Cleaning**  
 - 🌱 Learning advanced analytics and real-world projects  
+
+</td>
+
+<td width="40%">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 
 ---
 
